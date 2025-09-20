@@ -1,4 +1,4 @@
-# eCommerce Dashboard - React Version
+# eCommerce Dashboard - React 
 
 A modern, responsive eCommerce dashboard built with React.js, converted from the original HTML/CSS/JavaScript implementation.
 
