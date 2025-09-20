@@ -2,7 +2,17 @@
 
 A modern, responsive eCommerce dashboard built with React.js, converted from the original HTML/CSS/JavaScript implementation.
 
-#Live Link - https://react-responsive-dashboard-i2pr.vercel.app/
+## 🚀 Live Demo
+[https://react-responsive-dashboard-i2pr.vercel.app/](https://react-responsive-dashboard-i2pr.vercel.app/)
+
+---
+
+## 🖼️ Screenshots
+### Dashboard – eCommerce
+![eCommerce View](https://user-images.githubusercontent.com/<your-id>/ecommerce.png)
+
+### Dashboard – Default Table
+![Default View](https://user-images.githubusercontent.com/<your-id>/default.png)
 
 ## Features
 
